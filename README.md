@@ -37,9 +37,9 @@ A modern SwiftUI application that fetches and displays top headlines using a fre
 
 ## 📚 Technologies Used
 
-**SwiftUI**
-**Combine**
-**Alamofire**
-**Keychain Services**
+- **SwiftUI**
+- **Combine**
+- **Alamofire**
+- **Keychain Services**
 
 
